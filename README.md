@@ -34,6 +34,7 @@ Update paths in your environment and load **WavLM** and **M2d** checkpoints.
 - **`train.py`**
   | Path | Description |
   |------|-------------|
+  | `WAVLM_CKPT_PATH` | Path to WavLM checkpoint|
   | `train_csv` | Path to training CSV file |
   | `dev_csv` | Path to validation CSV file |
   | `train_root` | Root path to training dataset |
